@@ -1,0 +1,32 @@
+.container {
+    width:50%;
+    margin: 0 25%;
+    text-align: center;
+}
+
+.circle {
+    margin: 2% 32%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    color: grey;
+}
+.number {
+    padding-top:50px;
+}
+
+button {
+    padding:10px;
+    margin:20px;
+    background: lightskyblue;
+}
+
+.buttons {
+    
+}
+.odd {
+    background: red;
+}
+.even {
+    background: blue;
+}
